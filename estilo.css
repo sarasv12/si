@@ -1,0 +1,214 @@
+.a1
+{
+	position: absolute;
+	width: 94px;
+	height: 122px;
+	top: 31%;
+	right: 79%;
+}
+.a2
+{
+	position: absolute;
+	width: 94px;
+	height: 122px;
+	top: 33%;
+	right: 57%;
+}
+.a3
+{
+	position: absolute;
+	width: 94px;
+	height: 122px;
+	top: 31%;
+	right: 32%;
+}
+.b1
+{
+ position: absolute;
+ top: 87%;
+ right: 43%;
+}
+.h2
+{
+ position: absolute;
+ top: 25%;
+ right: 36%;
+}
+.p1
+{
+	position: absolute;
+	top: 32%;
+	right: 68%;
+}
+.p2
+{
+	position: absolute;
+	top: 41%;
+	right: 48%;
+}
+.p3
+{
+	position: absolute;
+	top: 41%;
+	right: 29%;
+}
+.p4
+{
+	position: absolute;
+	top: 31%;
+	right: 10%;
+}
+
+.an1
+{
+	position: absolute;
+	background-color: black;
+	width: 800px;
+	height: 451px;
+	left: 23%;
+}
+
+.crewi
+{
+	position: absolute;
+	background-image: url(crew.gif);
+	width: 800px;
+	height: 451px;
+	left: 23%;
+}
+
+.botona1
+{
+	position: absolute;
+	background-image: url(botona1.gif);
+	width: 114px;
+	height: 165px;
+	top: 36%;
+	left: 43%;
+}
+
+.botona1i
+{
+	display: none;
+}
+
+.sig
+{
+	position: absolute;
+	background-image: url(siguiente.png);
+	width: 71px;
+	height: 78px;
+	bottom: 3%;
+	right: 3%;
+}
+
+.fin
+{
+	position: absolute;
+	background-image: url(fin.png);
+	width: 72px;
+	height: 79px;
+	bottom: 3%;
+	right: 3%;
+}
+
+.an2
+{
+	position: absolute;
+	width: 800px;
+	height: 451px;
+	left: 23%;
+}
+
+.reportv
+{
+	background-image: url(report.png);
+	position: absolute;
+	width: 112px;
+	height: 109px;
+	top: 40%;
+	left: 45%;
+}
+
+.reporti
+{
+	display: none;
+}
+
+.em
+{
+	position: absolute;
+	background-image: url(emergency.gif);
+	width: 800px;
+	height: 451px;
+	left: 23%;
+}
+
+.reu1
+{
+	position: absolute;
+	background-image: url(quietos.gif);
+	width: 800px;
+	height: 451px;
+	left: 23%;
+}
+
+.esc
+{
+	position: absolute;
+	background-image: url(escuchar.png);
+	width: 70px;
+	height: 70px;
+	bottom: 0%;
+	left: 48%;
+}
+
+.exp
+{
+	position: absolute;
+	background-image: url(exp.gif);
+	width: 800px;
+	height: 451px;
+	left: 23%;
+}
+
+.vot
+{
+	position: absolute;
+	background-image: url(vot.gif);
+	width: 800px;
+	height: 451px;
+	left: 23%;
+}
+
+.an3
+{
+	position: absolute;
+	width: 800px;
+	height: 451px;
+	left: 23%;
+}
+
+.an4
+{
+	position: absolute;
+	background-color: black;
+	width: 800px;
+	height: 451px;
+	left: 23%;
+}
+
+.fing
+{
+	position: absolute;
+	background-image: url(fing.png);
+	width: 207px;
+	height: 240px;
+	left: 35%;
+	top: 20%;
+}
+
+.invisible
+{
+	display: none;
+}

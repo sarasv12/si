@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Animacion</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+	<script src="script.js" language="javascript" type="text/javascript"></script>
+</head>
+<body background="fondo.png" onload="setTimeout(boton2,2800);">
+	<center><div class="titulo"><img src="h5.png" style="margin-top: 25px;"></div></center>
+<div class="an2" id="an2">
+	<video autoplay muted id="vid1">
+		<source src="cuerpo1.mp4" type="video/mp4">
+	</video>
+	<div class="reporti" id="botona2" onclick="botona2();"></div>
+	<audio id="em">
+		<source src="emergency.mp3" type="audio/mpeg">
+	</audio>
+	<div class="invisible" id="esc" onclick="esc();"></div>
+	<audio id="conv">
+		<source src="conv.mp3" type="audio/mpeg">
+	</audio>
+	<video autoplay muted hidden id="vid2">
+		<source src="exp.mp4" type="video/mp4">
+	</video>
+	<audio id="sexp">
+		<source src="exp.mp3" type="audio/mpeg">
+	</audio>
+	<div class="invisible" id="sig" onclick="link3();"></div>
+</div>
+</body>
+</html>
